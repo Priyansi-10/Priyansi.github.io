@@ -141,21 +141,4 @@ footer a:hover {
     }
 }
 
-@media only screen and (max-width: 600px) {
-    h1 {
-        font-size: 40px;
-    }
-
-    h2 {
-        font-size: 18px;
-    }
-
-    .button {
-        padding: 8px 16px;
-    }
-
-    .restaurant-card {
-        width: 100%;
-    }
-}
 
